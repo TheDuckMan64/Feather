@@ -1251,7 +1251,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 4;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = F8ZV9RQFPQ;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = iOS/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Feather (Debug)";
@@ -1279,7 +1279,7 @@
 					"-w",
 					"-Wno-everything",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = kh.crysalis.feather.dev;
+				PRODUCT_BUNDLE_IDENTIFIER = hthe.crysalis.feather.dev;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
@@ -1304,7 +1304,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 4;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = F8ZV9RQFPQ;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = iOS/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Feather (Debug)";
@@ -1332,7 +1332,7 @@
 					"-w",
 					"-Wno-everything",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = kh.crysalis.feather;
+				PRODUCT_BUNDLE_IDENTIFIER = hthe.crysalis.feather;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
